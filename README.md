@@ -26,15 +26,12 @@ I have been developing projects for 10+ years between multiple platforms, I am t
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
+## 🏆 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=meanaiscloud&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+![Stars](https://img.shields.io/github/stars/meanaiscloud?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/meanaiscloud?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Dynamic-blue?style=for-the-badge)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meanaiscloud&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meanaiscloud&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/meanaiscloud/count.svg?" alt="visitors count" />
 
 ## 🏆 GitHub Trophies
 
