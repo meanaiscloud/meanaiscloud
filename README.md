@@ -35,9 +35,8 @@ I have been developing projects for 10+ years between multiple platforms, I am t
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=meanaiscloud&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
+![Stars](https://img.shields.io/github/stars/meanaiscloud?style=flat-square)
+
 
 
 ## GitHub Activity Graph
