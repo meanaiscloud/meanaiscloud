@@ -33,12 +33,6 @@ I have been developing projects for 10+ years between multiple platforms, I am t
 ![Repos](https://img.shields.io/badge/Public%20Repos-Dynamic-blue?style=for-the-badge)
 
 
-## 🏆 GitHub Trophies
-
-![Stars](https://img.shields.io/github/stars/meanaiscloud?style=flat-square)
-
-
-
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meanaiscloud&radius=16&theme=xcode&area=true&order=5" height="300" alt="activity-graph" />
