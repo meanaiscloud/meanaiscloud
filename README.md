@@ -36,9 +36,12 @@ I have been developing projects for 10+ years between multiple platforms, I am t
 
 <img src="https://profile-counter.glitch.me/meanaiscloud/count.svg?" alt="visitors count" />
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=meanaiscloud" alt="trophy" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=meanaiscloud&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
 
 ## GitHub Activity Graph
 
